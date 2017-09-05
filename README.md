@@ -20,9 +20,9 @@ python image_converter.py
 
 打开字符文件后，推荐设置记事本字体为以下属性：
 
-字体 ( font-family ): Consolas
-字形 ( font-weight ): Bold
-字号 ( font-size ): 7px
+* 字体 ( font-family ): Consolas
+* 字形 ( font-weight ): Bold
+* 字号 ( font-size ): 7px
 
 ---
 
